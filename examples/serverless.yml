@@ -1,0 +1,22 @@
+service: myService
+
+provider:
+  name: aws
+  runtime: nodejs10.x
+
+functions:
+  myFunction:
+    handler: myFunction.handler
+
+plugins:
+  - serverless-setenv
+
+custom:
+  setenv: # optional. uses defaults below.
+    dotenv: # optional. uses defaults below.
+      dirPath: . # optional. defaults to current directory
+      expand: true # optional. defaults to false. runs dotenv-expand
+      shell: true # optional. defaults to false. runs dotenv-shell
+      order: # required if expand and shell are both true.
+        - expand
+        - shell

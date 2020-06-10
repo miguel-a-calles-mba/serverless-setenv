@@ -1,0 +1,38 @@
+{
+  "name": "serverless-setenv",
+  "version": "0.0.1",
+  "description": "Serverless plugin for using dotenv and shell commands to load environment variables..",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest .",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel-a-calles-mba/serverless-setenv.git"
+  },
+  "keywords": [
+    "serverless",
+    "plugin",
+    "dotenv",
+    "environment variables",
+    "shell"
+  ],
+  "author": "Miguel A. Calles, MBA <miguelacallesmba@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguel-a-calles-mba/serverless-setenv/issues"
+  },
+  "homepage": "https://github.com/miguel-a-calles-mba/serverless-setenv#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "dotenv-expand": "^5.1.0",
+    "dotenv-shell": "^0.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-google": "^0.14.0",
+    "jest": "^26.0.1"
+  }
+}
