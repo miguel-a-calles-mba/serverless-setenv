@@ -1,5 +1,7 @@
 # Serverless Set Env Plugin
 
+![Push to master](https://github.com/miguel-a-calles-mba/serverless-setenv/workflows/Push%20to%20master/badge.svg?branch=master)
+
 ## Table of Contents
 
 1. [Description](#description)
