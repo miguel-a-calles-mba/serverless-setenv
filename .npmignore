@@ -2,4 +2,6 @@
 .gitignore
 .github
 .jsbeautifyrc
+.env.test
+test/.env
 examples
