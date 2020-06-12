@@ -28,7 +28,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "dotenv-expand": "^5.1.0",
-    "dotenv-shell": "^0.0.3"
+    "dotenv-shell": "0.0.4"
   },
   "devDependencies": {
     "eslint": "^7.2.0",
