@@ -1,6 +1,6 @@
 {
   "name": "serverless-setenv",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Serverless plugin for using dotenv and shell commands to load environment variables..",
   "main": "index.js",
   "scripts": {
