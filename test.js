@@ -141,6 +141,7 @@ describe('plugin', () => {
                 EXPAND_SHELL: 'basic',
                 SHELL_DEP1: 'shell1',
                 SHELL_DEP1A: 'shell1',
+                SHELL_DEP1B: 'shell1',
             });
         });
         test('shell first with dependencies', () => {
@@ -163,6 +164,7 @@ describe('plugin', () => {
                 EXPAND_SHELL: 'basic',
                 SHELL_DEP1: 'shell1',
                 SHELL_DEP1A: 'shell1',
+                SHELL_DEP1B: 'shell1',
             });
         });
     });
