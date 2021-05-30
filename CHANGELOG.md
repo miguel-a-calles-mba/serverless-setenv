@@ -1,0 +1,25 @@
+# Change log
+
+- v1.0.0 (Breaking changes)
+  - Breaking change: Upgrade dotenv from 8.2.0 to 8.6.0 #9
+  - Bump ws from 7.3.1 to 7.4.6 #10
+  - Bump dotenv from 8.2.0 to 10.0.0 #11
+  - Breaking change: Bump jest from 26.1.0 to 27.0.3 #12
+  - Bump dotenv-shell from 0.1.1 to 0.1.3 #13
+  - Bump eslint from 7.4.0 to 7.27.0 #14
+- v0.1.1
+  - [Snyk] Upgrade dotenv-shell from 0.1.0 to 0.1.1 #5
+  - Bump y18n from 4.0.0 to 4.0.1 #6
+  - Bump lodash from 4.17.19 to 4.17.21 #7
+  - Bump hosted-git-info from 2.8.8 to 2.8.9 #8
+- v0.1.0
+  - Shell variable dependencies #4
+- v0.0.4
+  - Added new tests #3
+- v0.0.3
+  - Updated dotenv-shell #2
+- v0.0.2
+  - Fixed npm publish GitHub Action
+- v0.0.1
+  - Initial release
+  - Updated ignore files #1
