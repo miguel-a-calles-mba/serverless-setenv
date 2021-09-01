@@ -1,5 +1,9 @@
 # Change log
 
+- v1.0.1
+  - Bump jest from 27.0.3 to 27.1.0 #23
+  - Bump eslint from 7.27.0 to 7.32.0 #22
+  - Updated dotenv-shell #24
 - v1.0.0 (Breaking changes)
   - Breaking change: Upgrade dotenv from 8.2.0 to 8.6.0 #9
   - Bump ws from 7.3.1 to 7.4.6 #10
