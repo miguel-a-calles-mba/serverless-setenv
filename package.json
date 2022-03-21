@@ -27,7 +27,7 @@
   "homepage": "https://github.com/miguel-a-calles-mba/serverless-setenv#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "dotenv-expand": "^5.1.0",
+    "dotenv-expand": "^8.0.3",
     "dotenv-shell": "^1.0.0"
   },
   "devDependencies": {
